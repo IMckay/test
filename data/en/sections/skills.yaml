@@ -1,0 +1,42 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Xero
+  logo: "/images/sections/skills/xero.svg"
+  summary: "Xero Certified Advisor. With Xero, I have handled the bookkeeping for multiple clients, established procedures to streamline day-to-day bookkeeping, and produced financial reports and statements that assist in making informed business decisions."
+  url: "https://www.xero.com/"
+
+- name: Quickbooks
+  logo: "/images/sections/skills/quickbooks.svg"
+  summary: "I have multiple years of experience working with Quickbooks Desktop in small business settings. I've conducted daily bookkeeping duties,  month-end and year-end procedures, and creating and generating financial reports."
+  url: "https://quickbooks.intuit.com/ca/"
+
+- name: Microsoft Excel
+  logo: "/images/sections/skills/excel.svg"
+  summary: "Advanced knowledge of Microsoft Excel and other microsoft programs. Proficient with PivotTables, VLookup and some macros."
+  url: "https://www.microsoft.com/en-ca/microsoft-365/excel"
+
+- name: Adobe Photoshop
+  logo: "/images/sections/skills/photoshop.svg"
+  summary: "No formal training, but I've worked with photoshop in a hobby capacity for many years. I've designed stream overlays, digital maps, and marketing materials."
+  url: "https://www.adobe.com/ca/products/photoshop.html"
+
+- name: Lisp and Prolog
+  logo: "/images/sections/skills/lisp.svg"
+  summary: "Wrote multiple projects using both Lisp and Prolog during my studies in university. Some of these projects included developing Expert Systems and basic AI implementations."
+  url: "https://lisp-lang.org/"
+
+- name: Other Projects
+  logo: "/images/sections/skills/linux.svg"
+  summary: "I have experience using all three major operating systems (Linux, Windows, MacOS). I have also worked in some capacity with Java and C++, and have experience writing custom financial reports using SQL for Crystal Reports."
+  url: ""

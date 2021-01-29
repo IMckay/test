@@ -1,0 +1,67 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# designation
+designation: Bookkeeper and Accounting Professional
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am a passionate accounting professional with over 5 years of working experience in accounting, and over 10 years of professional work experience. I have worked with small family businesses as well as large corporations across multiple industries.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "ian@imckay.ca"
+
+
+#- name: LinkedIn
+ # icon: "fab fa-linkedin"
+  #url: "#"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://www.twitter.com/iannntv"
+
+- name: Youtube
+  icon: "fab fa-youtube"
+  url: "https://www.youtube.com/iannntv"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Fast Learner
+  percentage: 95
+  color: "#3aa1a3"
+- name: Leadership
+  percentage: 85
+  color: "#9c2525"
+- name: Communication
+  percentage: 80
+  color: yellow
+- name: Quickbooks
+  percentage: 90
+  color: green
+- name: Xero
+  percentage: 90
+  color: blue
+- name: Office Suite
+  percentage: 80
+  color: pink
+# you can also provide color code instead of pre-defined color name
+# - name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
+# - name: Example 2
+#   percentage: 65
+#   color: "#8b8383"

@@ -1,0 +1,56 @@
+# section information
+section:
+  name: Education and Qualifications
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Xero Certified Advisor
+  icon: fa-award
+  timeframe: 2019 - Current
+  institution:
+    name: Xero
+    url: "https://www.xero.com"
+  educationDescription:
+  - Xero is a full service cloud-based accounting software.
+  - I have been a Certified Advisor since 2019, and continue to renew my certification annually.
+
+- name: Quickbooks Pro Advisor
+  icon: fa-award
+  timeframe: 2018 - Current
+  institution:
+    name: Quickbooks
+    url: "https://quickbooks.intuit.com/"
+  educationDescription:
+  - Quickbooks is the world's most popular small business accounting software
+  - I have been a Certified ProAdvisor since 2018, and continue to renew my certification annually.
+
+- name: CompTIA, Microsoft
+  icon: fa-award
+  timeframe: 
+  institution:
+    name: Other Certifications
+    url: ""
+  educationDescription:
+  - Comptia A+ Certification
+  - "Microsoft MTA: Networking Fundamentals"
+
+
+- name: B.Sc. in Computer Science (Incomplete)
+  icon: fa-graduation-cap
+  timeframe: 
+  institution:
+    name: University of Manitoba
+    url: "#"
+
+  courseArea: #(optional)
+  - 90 Credit hours completed
+  - "Key areas of study were Computer Science, Business, and Engineering"
+  - Intend to finish degree when circumstances are more permitting
+
+

@@ -1,0 +1,79 @@
+# section information
+section:
+  name: Professional Experience
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: DAE Enterprises
+    url: ""
+    location: Winnipeg, MB
+    overview: DAE Enterprises is a company that operates 6 franchised pizza chain restaurants.
+  positions:
+  - designation: Accountant
+    start: Jan 2018
+    #end: May 2017
+    responsibilities:
+    - "Daily bookkeeping: entering transactions, AR/AP, verifying expense claims, reconciling accounts"
+    - Preparing, filing and paying tax returns
+    - Preparing quarterly and annual financial statements, and analyzing them to provide business insights and trends
+    - Established best-practice procedures and protocols that were missing
+    - Preparing financial documents required to secure things like corporate loans
+    - Preparing and submitting sales data to the franchiser
+    - Assisting in processing payroll
+
+  - designation: Bookkeeper
+    start: Jan 2015
+    end: Dec 2017
+    responsibilities:
+    - Daily bookkeeping
+    - Processing payroll
+    - Managing AR/AP
+
+
+- company:
+    name: LiveCA
+    url: "https://www.liveca.ca/"
+    location: Remote, Canada
+    # company overview
+    overview: LiveCA LLP is an online CPA firm servicing customers in every province.
+  positions:
+  - designation: Bookkeeping Associate
+    start: Aug 2018
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Oct 2019
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Performed monthly bookkeeping and reconciliations in web-based accounting software
+    - Working with clients to assure financial data is accurate and submitted in a timely manner
+    - Handled client requests through a support-ticketing system (Zendesk)
+    - Developed bookkeeping workflows and documentation for new and existing clients
+    - Client-relationship management, was the first point of contact for clients 
+    
+
+- company:
+    name: Little Caesars
+    url: "https://www.littlecaesars.ca/en-ca/"
+    location: Winnipeg, MB
+    # company overview
+    overview: Little Caesars is one of North America's largest pizza chains. It operates and franchises pizza restaurants. 
+  positions:
+  - designation: Store Manager
+    start: Aug 2010
+    end: Oct 2014
+    responsibilities:
+    - Oversaw the operations of two store locations
+    - Managed employee scheduling, hiring and terminations
+    - Dealt with customer satisfaction
+    - Responsible for cost tracking and reviewing sales performance
+    - Managed corporate accounts and handled sponsorships and charity events
+    - Customized POS software and wrote custom reports using SQL and Crystal Reports to streamline reporting for accounting 
+
+
+    
